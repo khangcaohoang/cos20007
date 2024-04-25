@@ -11,10 +11,18 @@ namespace SemTest
     public class Transaction: Thing
     {
         private decimal _amount;
-        public Batch(string number, string name) : base(name)
+        public Transaction(string number, string name) : base(name, number)
         {
-            _number = number;
-            _name = name;
+           
+        }
+        public override void Print()
+        {
+            Console.WriteLine($"#{Number}, { Name},{ _amount}");
+        }
+        public override decimal Total()
+        {
+            return _amount;
         }
     }
+
 }

@@ -8,12 +8,17 @@ namespace SemTest
 {
     public class Sales
     {
-        private List<Thing> _orders;
+        private List<Batch> _orders;
         public Sales() {}
-        public void Add(Thing orders)
+        public void Add(Batch orders)
         {
             _orders.Add(orders);
         }
-
+        public void PrintOrders()
+        {
+            Console.WriteLine("Sales:");
+            foreach (var items in _orders)
+                _orders.Print();
+        }
     }
 }
