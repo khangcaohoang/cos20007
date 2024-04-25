@@ -1,0 +1,14 @@
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.AssemblyInfo.cs
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\SemTest\SemTest\bin\Debug\net8.0\SemTest.exe
+C:\Users\thanh\source\repos\SemTest\SemTest\bin\Debug\net8.0\SemTest.deps.json
+C:\Users\thanh\source\repos\SemTest\SemTest\bin\Debug\net8.0\SemTest.runtimeconfig.json
+C:\Users\thanh\source\repos\SemTest\SemTest\bin\Debug\net8.0\SemTest.dll
+C:\Users\thanh\source\repos\SemTest\SemTest\bin\Debug\net8.0\SemTest.pdb
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.dll
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\refint\SemTest.dll
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.pdb
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\SemTest.genruntimeconfig.cache
+C:\Users\thanh\source\repos\SemTest\SemTest\obj\Debug\net8.0\ref\SemTest.dll
