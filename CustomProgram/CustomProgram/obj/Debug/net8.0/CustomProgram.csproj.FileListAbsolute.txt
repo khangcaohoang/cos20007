@@ -1,0 +1,14 @@
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\bin\Debug\net8.0\CustomProgram.exe
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\bin\Debug\net8.0\CustomProgram.deps.json
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\bin\Debug\net8.0\CustomProgram.runtimeconfig.json
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\bin\Debug\net8.0\CustomProgram.dll
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\bin\Debug\net8.0\CustomProgram.pdb
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.AssemblyInfo.cs
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.dll
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\refint\CustomProgram.dll
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.pdb
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\CustomProgram.genruntimeconfig.cache
+C:\Users\thanh\source\repos\CustomProgram\CustomProgram\obj\Debug\net8.0\ref\CustomProgram.dll
